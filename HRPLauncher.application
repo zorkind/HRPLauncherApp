@@ -14,7 +14,7 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="HRPLauncher_1_0_0_0\HRPLauncher.dll.manifest" size="127967">
+    <dependentAssembly dependencyType="install" codebase="https://raw.githubusercontent.com/zorkind/HRPLauncherApp/main/HRPLauncher_1_0_0_0/HRPLauncher.dll.manifest" size="127967">
       <assemblyIdentity name="HRPLauncher.exe" version="1.0.0.0" publicKeyToken="63cf84ea1a7ef876" language="en" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
