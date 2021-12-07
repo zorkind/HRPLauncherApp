@@ -1,1 +1,4 @@
 *.zip.deploy filter=lfs diff=lfs merge=lfs -text
+*.manifest binary
+*.application binary
+*.deploy binary
